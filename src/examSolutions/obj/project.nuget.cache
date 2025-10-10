@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HN2EafINIbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anders\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
+  ],
+  "logs": []
+}
