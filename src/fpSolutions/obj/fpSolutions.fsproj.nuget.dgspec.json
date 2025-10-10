@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj": {}
+    "C:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\fpSolutions.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj": {
+    "C:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\fpSolutions.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj",
-        "projectName": "examSolutions",
-        "projectPath": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj",
+        "projectUniqueName": "C:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\fpSolutions.fsproj",
+        "projectName": "fpSolutions",
+        "projectPath": "C:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\fpSolutions.fsproj",
         "packagesPath": "C:\\Users\\Anders\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\obj\\",
+        "outputPath": "C:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anders\\AppData\\Roaming\\NuGet\\NuGet.Config"

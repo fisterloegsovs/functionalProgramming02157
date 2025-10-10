@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj",
-      "projectName": "examSolutions",
-      "projectPath": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj",
+      "projectUniqueName": "c:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\fpSolutions.fsproj",
+      "projectName": "fpSolutions",
+      "projectPath": "c:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\fpSolutions.fsproj",
       "packagesPath": "C:\\Users\\Anders\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\obj\\",
+      "outputPath": "c:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anders\\AppData\\Roaming\\NuGet\\NuGet.Config"

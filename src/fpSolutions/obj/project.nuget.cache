@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HN2EafINIbw=",
+  "dgSpecHash": "tjh7KPo1eYM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anders\\Desktop\\src\\examSolutions\\examSolutions.fsproj",
+  "projectFilePath": "C:\\Users\\Anders\\Documents\\GitHub\\functionalProgramming02157\\src\\fpSolutions\\fpSolutions.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anders\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
   ],

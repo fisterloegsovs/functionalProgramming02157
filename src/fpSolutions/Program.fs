@@ -1,4 +1,4 @@
-﻿// Runner: invoke any exam modules' `run` or `main` entry points if they exist.
+// Runner: invoke any exam modules' `run` or `main` entry points if they exist.
 // For more information see https://aka.ms/fsharp-console-apps
 open System
 open System.Reflection

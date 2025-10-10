@@ -7,11 +7,11 @@ open System
 open System.Reflection
 
 
-[<assembly: System.Reflection.AssemblyCompanyAttribute("examSolutions")>]
+[<assembly: System.Reflection.AssemblyCompanyAttribute("fpSolutions")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
-[<assembly: System.Reflection.AssemblyProductAttribute("examSolutions")>]
-[<assembly: System.Reflection.AssemblyTitleAttribute("examSolutions")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52e8e0d359c9b3dbdf0b983d37c72ca4ca335262")>]
+[<assembly: System.Reflection.AssemblyProductAttribute("fpSolutions")>]
+[<assembly: System.Reflection.AssemblyTitleAttribute("fpSolutions")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
 do()
