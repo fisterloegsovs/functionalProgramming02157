@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("fpSolutions")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+def9a5c747295dc3f6d92fbec6a316b96f7b93f3")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9baa58071e412362db794e582c3f96de72662144")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("fpSolutions")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("fpSolutions")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
